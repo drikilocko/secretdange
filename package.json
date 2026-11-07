@@ -1,0 +1,37 @@
+{
+  "name": "wearism-shop",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/montserrat": "^0.4.2",
+    "@expo/metro-runtime": "^57.0.16",
+    "@expo/vector-icons": "^14.0.2",
+    "@maplibre/maplibre-gl-leaflet": "^0.1.4",
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@supabase/supabase-js": "^2.118.0",
+    "expo": "~51.0.28",
+    "expo-blur": "~13.0.3",
+    "expo-font": "~12.0.10",
+    "expo-linear-gradient": "~13.0.2",
+    "expo-status-bar": "~1.12.1",
+    "leaflet": "^1.9.4",
+    "maplibre-gl": "^6.16.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-url-polyfill": "^4.0.0",
+    "react-native-web": "~0.19.10",
+    "react-native-webview": "13.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@types/react": "~18.2.45",
+    "typescript": "^5.1.3"
+  },
+  "private": true
+}
